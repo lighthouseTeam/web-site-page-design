@@ -44,17 +44,6 @@
                     color: #ccc;
                 }
             }
-            &-home {
-                color: $secondarycolor !important;
-                text-decoration: none;
-                text-transform: uppercase;
-                font-weight: 700 !important;
-                font-size: 16px;
-                line-height: 24px;
-            }
-            &-home:hover {
-                color: #ccc !important;
-            }
         }
     }
 }
